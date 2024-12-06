@@ -1,6 +1,7 @@
 Informative Poster:
 
-![image](https://github.com/user-attachments/assets/efb024a8-dd10-49cd-becb-164652679e23)
+(![image](https://github.com/user-attachments/assets/08ee86a5-78bf-4d53-91d0-31589e459592)
+)
 
 
 Abstract:
